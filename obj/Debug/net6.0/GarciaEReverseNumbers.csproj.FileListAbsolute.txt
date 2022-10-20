@@ -1,0 +1,15 @@
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEReverseNumbers\bin\Debug\net6.0\GarciaEReverseNumbers.exe
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEReverseNumbers\bin\Debug\net6.0\GarciaEReverseNumbers.deps.json
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEReverseNumbers\bin\Debug\net6.0\GarciaEReverseNumbers.runtimeconfig.json
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEReverseNumbers\bin\Debug\net6.0\GarciaEReverseNumbers.dll
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEReverseNumbers\bin\Debug\net6.0\GarciaEReverseNumbers.pdb
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEReverseNumbers\obj\Debug\net6.0\GarciaEReverseNumbers.csproj.AssemblyReference.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEReverseNumbers\obj\Debug\net6.0\GarciaEReverseNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEReverseNumbers\obj\Debug\net6.0\GarciaEReverseNumbers.AssemblyInfoInputs.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEReverseNumbers\obj\Debug\net6.0\GarciaEReverseNumbers.AssemblyInfo.cs
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEReverseNumbers\obj\Debug\net6.0\GarciaEReverseNumbers.csproj.CoreCompileInputs.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEReverseNumbers\obj\Debug\net6.0\GarciaEReverseNumbers.dll
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEReverseNumbers\obj\Debug\net6.0\refint\GarciaEReverseNumbers.dll
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEReverseNumbers\obj\Debug\net6.0\GarciaEReverseNumbers.pdb
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEReverseNumbers\obj\Debug\net6.0\GarciaEReverseNumbers.genruntimeconfig.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEReverseNumbers\obj\Debug\net6.0\ref\GarciaEReverseNumbers.dll
